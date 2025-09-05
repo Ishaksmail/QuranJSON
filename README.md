@@ -17,12 +17,9 @@
 
 > ✨ The **Basmala** was intentionally removed from `.txt` files to simplify surah and ayah splitting.
 
----
-
-## 📂 هيكلة المشروع | Project Structure
-
 ```
 
+## 📂 هيكلة المشروع | Project Structure
 data/                  # ملفات الإدخال (نصوص الروايات)
 │── Hafs.txt
 │── Warsh.txt
